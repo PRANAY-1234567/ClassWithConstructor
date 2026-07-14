@@ -7,6 +7,7 @@ This Python program demonstrates Object-Oriented Programming (OOP) concepts usin
 The program creates a Student class that stores a student's name and displays it using a method.
 
 ⚙️ Source Code
+
 class Student:
     def __init__(self, name):
         self.name = name
