@@ -17,6 +17,7 @@ class Student:
 s1 = Student("Rahul")
 s1.show()
 🧠 How the Program Works
+
 1️⃣ Create a Class
 class Student:
 
@@ -25,6 +26,7 @@ A class is a blueprint used to create objects.
 Here, Student represents a student entity.
 
 2️⃣ Constructor Method
+
 def __init__(self, name):
 
 __init__() is a constructor in Python.
@@ -34,6 +36,7 @@ It runs automatically when an object is created.
 It initializes the object’s attributes.
 
 3️⃣ Instance Variable
+
 self.name = name
 
 self.name stores the name of the student.
